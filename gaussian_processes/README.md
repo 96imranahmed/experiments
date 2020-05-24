@@ -21,4 +21,4 @@ Average pairwise compute time: 0.02540175999999992, Average vectorised compute t
 
 ## So-what? 
 
-It looks like this torch vectorization is *really* efficienct (and, moreover, torch is *really* easy to use). However, if you need to use GPs in your pipelines, it's probably a good idea to just use [GPyTorch](https://gpytorch.ai/) going forwards.
+It looks like this torch vectorization is *really* efficient (and, moreover, torch is *really* easy to use). However, if you need to use GPs in your pipelines, it's probably a good idea to just use [GPyTorch](https://gpytorch.ai/) going forwards.
